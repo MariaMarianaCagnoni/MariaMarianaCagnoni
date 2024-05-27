@@ -13,5 +13,4 @@ Java,TypeScript,Springboot,Angular,Postgres and more :D
 
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=bear&background=000&border=30A3DC&dates=FFF)
 
