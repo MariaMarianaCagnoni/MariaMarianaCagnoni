@@ -3,8 +3,13 @@
 My name is Mariana and i'm a software developer !
 Graduated in computer science, I am a great enthusiast of technologies in general!
 
+
 ## 🛠 Skills
-Java,TypeScript,Springboot,Angular,Postgres and more :D
+Java
+TypeScript
+Springboot
+React
+Postgres 
 
 
 ### Where can you find me:
