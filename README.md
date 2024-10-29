@@ -9,7 +9,7 @@ Graduated in computer science, I am a great enthusiast of technologies in genera
 - TypeScript
 - Springboot
 - React
-- Postgres 
+- Postgres/Mysql/MongoDB 
 
 
 ### Where can you find me:
