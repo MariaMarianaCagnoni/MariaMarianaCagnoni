@@ -5,11 +5,11 @@ Graduated in computer science, I am a great enthusiast of technologies in genera
 
 
 ## 🛠 Skills
-Java
-TypeScript
-Springboot
-React
-Postgres 
+- Java
+- TypeScript
+- Springboot
+- React
+- Postgres 
 
 
 ### Where can you find me:
