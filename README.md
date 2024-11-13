@@ -9,7 +9,11 @@ Graduated in computer science, I am a great enthusiast of technologies in genera
 - TypeScript
 - Springboot
 - React
-- Postgres/Mysql/MongoDB 
+- Postgres/Mysql/MongoDB
+
+## 🗣️ Soft Skills
+- Communication: I have excellent communication, I can express myself clearly and objectively.
+- Discipline: I have the necessary discipline to carry out any task with excellence.
 
 
 ### Where can you find me:
